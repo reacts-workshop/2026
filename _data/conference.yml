@@ -22,6 +22,12 @@ show_logo: true
 show_title: false
 
 slideshow:
+   - id: 0
+  #   image_path: ./assets/images/slideshow/Malta_andscape.jpg
+     description: "Malta Landscape"
+     photographer_name: ""
+     photographer_link: ""
+  #   active: True
   # - id: 0
   #   image_path: ./assets/images/slideshow/0-banner.jpg
   #   description: "Toledo by night"
@@ -33,48 +39,48 @@ slideshow:
   #  # description: ""
   #   photographer_name: ""
   #   photographer_link: ""
-  - id: 0
-    image_path: ./assets/images/slideshow/0-wei-hunag.jpg
-    description: >
-      Photo by <a href="https://unsplash.com/@wei0411?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Wei Hunag</a> on <a href="https://unsplash.com/photos/white-and-brown-concrete-buildings-near-body-of-water-during-daytime-Wsq7mTqt8nE?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
-    photographer_name: ""
-    photographer_link: ""
-    active: True
-  - id: 1
-    image_path: ./assets/images/slideshow/1-alex-garcia.jpg
-    description: >
-      Photo by <a href="https://unsplash.com/@soyjosa?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Alex Garcia</a> on <a href="https://unsplash.com/photos/people-walking-on-street-during-daytime-jF_XUvPHG44?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
-    photographer_name: ""
-    photographer_link: ""
-    active: True
-  - id: 2
-    image_path: ./assets/images/slideshow/2-javier-alamo-rodriguez.jpg
-    description: >
-      Photo by <a href="https://unsplash.com/@javier1965?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">javier alamo rodriguez</a> on <a href="https://unsplash.com/photos/people-walking-near-white-concrete-building-during-night-time-5gx8B2lTLDw?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
-    photographer_name: ""
-    photographer_link: ""
-    active: True
-  - id: 3
-    image_path: ./assets/images/slideshow/3-greta-scholderle-moller.jpg
-    description: >
-      Photo by <a href="https://unsplash.com/@schoelderle?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Greta Schölderle Möller</a> on <a href="https://unsplash.com/photos/aerial-photography-of-buildings-FOc1dAPuCIU?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
-    photographer_name: ""
-    photographer_link: ""
-    active: True
-  - id: 4
-    image_path: ./assets/images/slideshow/4-aki.jpg
-    description: >
-      Photo by <a href="https://unsplash.com/@fan_world2020?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Aki</a> on <a href="https://unsplash.com/photos/brown-and-white-concrete-building-during-daytime-TF8YCvNalQQ?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
-    photographer_name: ""
-    photographer_link: ""
-    active: True
-  - id: 5
-    image_path: ./assets/images/slideshow/5-miguel-angel-sanz.jpg
-    description: >
-      Photo by <a href="https://unsplash.com/@maswdl95?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Miguel Ángel Sanz</a> on <a href="https://unsplash.com/photos/brown-concrete-building-on-green-grass-field-near-body-of-water-during-daytime-e8bIAHYttlk?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
-    photographer_name: ""
-    photographer_link: ""
-    active: True
+  #- id: 0
+  #  image_path: ./assets/images/slideshow/0-wei-hunag.jpg
+  #  description: >
+  #    Photo by <a href="https://unsplash.com/@wei0411?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Wei Hunag</a> on <a href="https://unsplash.com/photos/white-and-brown-concrete-buildings-near-body-of-water-during-daytime-Wsq7mTqt8nE?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+  #  photographer_name: ""
+  #  photographer_link: ""
+  #  active: True
+  #- id: 1
+  #  image_path: ./assets/images/slideshow/1-alex-garcia.jpg
+  #  description: >
+  #    Photo by <a href="https://unsplash.com/@soyjosa?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Alex Garcia</a> on <a href="https://unsplash.com/photos/people-walking-on-street-during-daytime-jF_XUvPHG44?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+  #  photographer_name: ""
+  #  photographer_link: ""
+  #  active: True
+  #- id: 2
+  #  image_path: ./assets/images/slideshow/2-javier-alamo-rodriguez.jpg
+  #  description: >
+  #    Photo by <a href="https://unsplash.com/@javier1965?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">javier alamo rodriguez</a> on <a href="https://unsplash.com/photos/people-walking-near-white-concrete-building-during-night-time-5gx8B2lTLDw?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+  #  photographer_name: ""
+  #  photographer_link: ""
+  #  active: True
+  #- id: 3
+  #  image_path: ./assets/images/slideshow/3-greta-scholderle-moller.jpg
+  #  description: >
+  #    Photo by <a href="https://unsplash.com/@schoelderle?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Greta Schölderle Möller</a> on <a href="https://unsplash.com/photos/aerial-photography-of-buildings-FOc1dAPuCIU?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+  #  photographer_name: ""
+  #  photographer_link: ""
+  #  active: True
+  #- id: 4
+  #  image_path: ./assets/images/slideshow/4-aki.jpg
+  #  description: >
+  #    Photo by <a href="https://unsplash.com/@fan_world2020?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Aki</a> on <a href="https://unsplash.com/photos/brown-and-white-concrete-building-during-daytime-TF8YCvNalQQ?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+  #  photographer_name: ""
+  #  photographer_link: ""
+  #  active: True
+  #- id: 5
+  #  image_path: ./assets/images/slideshow/5-miguel-angel-sanz.jpg
+  #  description: >
+  #    Photo by <a href="https://unsplash.com/@maswdl95?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Miguel Ángel Sanz</a> on <a href="https://unsplash.com/photos/brown-concrete-building-on-green-grass-field-near-body-of-water-during-daytime-e8bIAHYttlk?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+  #  photographer_name: ""
+  #  photographer_link: ""
+  #  active: True
 navbar:
   - id: 0
     label: Home
@@ -118,36 +124,36 @@ navbar:
     visible: False
 deadline_timezone: AoE
 deadlines:
-  - date: 2025-08-13
+  - date: 2026-09-06
     text: Abstract submission
     pass_due: False
     strike_through: False
-  - date: 2025-08-20
+  - date: 2025-09-13
     text: Paper submission
     pass_due: False
     strike_through: False
-  - date: 2025-09-22
+  - date: 2025-10-16
     text: Notification of acceptance
     pass_due: False
     strike_through: False
-  - date: 2025-10-20 
+  - date: 2025-11-06
     text: Camera-ready
     pass_due: False
     strike_through: False
 
 sponsors:
-  - name: Universidad Nacional de Educación a Distancia (UNED)
-    logo_path: /assets/images/sponsors/uned-logo.png
-    url: https://uned.es/
-  - name: Faculty of Sciences of the University of Porto (FCUP)
-    logo_path: /assets/images/sponsors/fcup-logo.png
-    url: https://www.up.pt/fcup/en/
-  - name: Research Centre in Real-Time and Embedded Computing Systems (CISTER)
-    logo_path: /assets/images/sponsors/cister-logo.png
-    url: https://cister-labs.pt
+  #- name: Center for Research and Development in Mathematics and Applications (CIDMA)
+  #  logo_path: /assets/images/sponsors/uned-logo.png ---- FALTA
+  #  url: https://cidma.ua.pt/index
+  #- name: University of Malta (UM)
+  #  logo_path: /assets/images/sponsors/fcup-logo.png ---- FALTA
+  #  url: https://https://www.um.edu.mt/
   - name: Lecture Notes in Computer Science (LNCS)
     logo_path: /assets/images/sponsors/lncs-logo.jpg
     url: https://www.springer.com/gp/computer-science/lncs
+  #- name: Research Centre in Real-Time and Embedded Computing Systems (CISTER)
+  #  logo_path: /assets/images/sponsors/cister-logo.png
+  #  url: https://cister-labs.pt
 #   - name: International Association of Sanskrit Studies
 #     logo_path: ./assets/images/sponsors/iass-logo.png
 #     url: https://www.sanskritassociation.org/
