@@ -1,21 +1,21 @@
-full_name: "2nd International Workshop on Reconfigurable Transition Systems: Semantics, Logics and Applications"
+full_name: "3rd International Workshop on Reconfigurable Transition Systems: Semantics, Logics and Applications"
 short_name: ReacTS 
 description: > # this means to ignore newlines until "baseurl:"
-  This is a satellite event of  <a href="https://sefm-conference.github.io/2025/" >SEFM 2025</a>
+  This is a satellite event of  <a href="https://https://sefm-conference.github.io/2026/" >SEFM 2026</a>
 
-email: jose.proenca@fc.up.pt / umberto@fsof.uned.es
+email: daniel.figueiredo@ua.pt / duncan.attard@um.edu.mt
 
-iteration: 2nd
-full_title: "2nd International Workshop on Reconfigurable Transition Systems: Semantics, Logics and Applications"
+iteration: 3rd
+full_title: "3rd International Workshop on Reconfigurable Transition Systems: Semantics, Logics and Applications"
 short_title: ReacTS Workshop
 
-year: 2025
-date: November 11, 2025
+year: 2026
+date: November 23-24, 2026
 
-location: Toledo
-country: Spain
+location: University of Malta
+country: Malta
 
-logo_path: ./assets/images/reacts-logo.png
+logo_path: ./assets/images/reacts-logo.png 
 
 # if show_logo is false, show_title: false has no effect
 show_logo: true
@@ -118,8 +118,6 @@ navbar:
     visible: False
 deadline_timezone: AoE
 deadlines:
-  # - date: 2024-08-20 - before extension in 2024
-  # - date: 2024-08-27 - after extension in 2024
   - date: 2025-08-13
     text: Abstract submission
     pass_due: False
@@ -128,8 +126,6 @@ deadlines:
     text: Paper submission
     pass_due: False
     strike_through: False
-  # - date: 2024-09-20 - before extension in 2024
-  # - date: 2024-09-25 - after extension in 2024
   - date: 2025-09-22
     text: Notification of acceptance
     pass_due: False
@@ -138,10 +134,6 @@ deadlines:
     text: Camera-ready
     pass_due: False
     strike_through: False
-  # - date: November 4, 2024
-  #   text: Workshop
-  #   pass_due: False
-  #   strike_through: False
 
 sponsors:
   - name: Universidad Nacional de Educación a Distancia (UNED)
