@@ -8,8 +8,8 @@ description: >
   The Microsoft CMT service was used for managing the peer-reviewing process for this conference. This service was provided for free by Microsoft and they bore all expenses, including costs for Azure cloud services as well as for software development and support.
 
 
-portal: Submit to ReacTS using CMT
-url: "https://cmt3.research.microsoft.com/reacts2025"
+portal: Submit to ReacTS 2026 using Easychair
+url: "https://easychair.org/my/conference?conf=reacts2026"
 
 file_formats:
   - PDF
