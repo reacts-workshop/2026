@@ -1,14 +1,14 @@
 - title: Program Committee Chair
   column: 1
   members:
-  - name: José Proença
-    org: University of Porto (Portugal)
+  - name: Daniel Figueiredo
+    org: University of Aveiro (Portugal)
     post: ""
-    homepage: https://jose.proenca.org
-  - name: Umberto Rivieccio
-    org: Universidad Nacional de Educación a Distancia (Spain)
+    homepage: https://github.com/dmhps/CV
+  - name: Duncaan Attard
+    org: University of Malta (Malta)
     post: ""
-    homepage: https://sites.google.com/view/umberto-rivieccio
+    homepage: https://duncanatt.github.io/
 # - name: Raul Fervari
 #   org: Universidad Nacional de Córdoba and CONICET (Argentina)
 #   post: ""
@@ -31,15 +31,12 @@
 - title: Invited Speakers
   column: 1
   members: 
-  - name: Alessandra Palmigiano
-    org: "Alessandra Palmigiano, Vrije Universiteit Amsterdam (The Netherlands)"
-    homepage: "/2025/invited-talks#alessandrapalmigiano"
-  - name: Amanda Vidal
-    org: "Amanda Vidal, Czech Academy of Sciences (Czech Republic)"
-    homepage: "/2025/invited-talks#amandavidal"
-#   - name: Johan van Benthem
-#     org: ILLC, University of Amsterdam (The Netherlands) & Stanford University (USA)
-#     homepage: https://staff.fnwi.uva.nl/j.vanbenthem
+  - name: Manuel A. Martins
+    org: "Manuel A. Martins, University of Aveiro (Portugal)"
+    homepage: "https://sweet.ua.pt/martins/"
+   - name: TBA
+     org: ""
+     homepage: ""
 #   - name: Sergio Marcelino
 #     org: "IT & Dep. Mathematics, IST, University of Lisbon (Portugal)"
 #     homepage: "https://www.researchgate.net/profile/Sergio-Marcelino"
@@ -92,9 +89,9 @@
   # - name: Johan van Benthem
   #   org: ILLC, University of Amsterdam (The Netherlands) & Stanford University (USA)
   #   homepage: https://staff.fnwi.uva.nl/j.vanbenthem
-  - name: Patrick Blackburn
-    org: University of Roskilde (Denmark)
-    homepage: https://www.patrickblackburn.org
+  #- name: Patrick Blackburn
+  #  org: University of Roskilde (Denmark)
+  #  homepage: https://www.patrickblackburn.org
   - name: Valentin Cassano
     org: Universidad Nacional de Río Cuarto and CONICET (Argentina)
     homepage: http://vcassano.github.io
@@ -117,52 +114,58 @@
     org: Universidad Nacional de Córdoba and CONICET (Argentina)
     post: ""
     homepage: https://cs.famaf.unc.edu.ar/~rfervari
-  - name: Daniel Figueiredo
-    org: "University of Aveiro (Portugal)"
-    homepage: " "
+  #- name: Daniel Figueiredo
+  #  org: "University of Aveiro (Portugal)"
+  #  homepage: " "
   - name: Sabine Frittella
     org: "Université d'Orleans (France)"
     homepage: "https://scholar.google.fr/citations?user=LXJScpMAAAAJ&hl=fr"
   # - name: Dov Gabbay
   #   org: "King's College London (UK)"
   #   homepage: "https://kclpure.kcl.ac.uk/portal/en/persons/dov-gabbay"
-  - name: Sujata Gosh
-    org: "Indian Statistical Institute, Chennai (India)"
-    homepage: "https://www.isichennai.res.in/~sujata/"
-  - name: Andreas Herzig
-    org: CNRS, Université Paul Sabatier (France)
-    homepage: https://www.irit.fr/~Andreas.Herzig/
-  - name: Juha Kontinen
-    org: University of Helsinki (Finland)
-    homepage: https://researchportal.helsinki.fi/en/persons/juha-kontinen
+  #- name: Sujata Gosh
+  #  org: "Indian Statistical Institute, Chennai (India)"
+  #  homepage: "https://www.isichennai.res.in/~sujata/"
+  #- name: Andreas Herzig
+  #  org: CNRS, Université Paul Sabatier (France)
+  #  homepage: https://www.irit.fr/~Andreas.Herzig/
+  #- name: Juha Kontinen
+  #  org: University of Helsinki (Finland)
+  #  homepage: https://researchportal.helsinki.fi/en/persons/juha-kontinen
   - name: Alexandre Madeira
     org: "University of Aveiro (Portugal)"
     homepage: "https://sweet.ua.pt/madeira/"
   - name: Sérgio Marcelino
     org: "IT & Dep. Mathematics IST, University of Lisbon (Portugal)"
     homepage: "https://www.researchgate.net/profile/Sergio-Marcelino"
-  - name: Vanina Martínez
-    org: IIIA-CSIC, Barcelona (Spain)
-    homepage: "https://www.iiia.csic.es/~vmartinez/"
-  - name: Manuel Martins
-    org: University of Aveiro (Portugal)
-    post: ""
-    homepage: https://sweet.ua.pt/martins/
-  - name: Carles Noguera i Clofent
-    org: Università degli Studi di Siena (Italy)
-    homepage: "https://docenti.unisi.it/en/noguera-clofent"
-  - name: Aybüke Özgün
-    org: University of Amsterdam (The Netherlands)
-    homepage: "https://sites.google.com/site/ozgunaybuke/"
+  #- name: Vanina Martínez
+  #  org: IIIA-CSIC, Barcelona (Spain)
+  #  homepage: "https://www.iiia.csic.es/~vmartinez/"
+  #- name: Manuel Martins
+  #  org: University of Aveiro (Portugal)
+  #  post: ""
+  #  homepage: https://sweet.ua.pt/martins/
+  #- name: Carles Noguera i Clofent
+  #  org: Università degli Studi di Siena (Italy)
+  #  homepage: "https://docenti.unisi.it/en/noguera-clofent"
+  #- name: Aybüke Özgün
+  #  org: University of Amsterdam (The Netherlands)
+  #  homepage: "https://sites.google.com/site/ozgunaybuke/"
   - name: Alessandra Palmigiano
     org: Vrije Universiteit Amsterdam (The Netherlands)
     homepage: "https://research.vu.nl/en/persons/alessandra-palmigiano"
+  - name: Fernando R. Velázquez-Quesada
+    org: "University of Bergen (Norway)"
+    homepage: "https://www.uib.no/en/persons/Fernando.Raymundo.Velazquez.Quesada"
+  - name: Umberto Rivieccio
+    org: Universidad Nacional de Educación a Distancia (Spain)
+    homepage: https://sites.google.com/view/umberto-rivieccio/home
   - name: Regivan Santiago
     org: "Universidade Federal do Rio Grande do Norte (Brazil)"
     homepage: "https://www.researchgate.net/profile/Regivan-Santiago"
-  - name: François Schwarzentruber
-    org: "ENS Rennes (France)"
-    homepage: "https://people.irisa.fr/Francois.Schwarzentruber"
+  #- name: François Schwarzentruber
+  #  org: "ENS Rennes (France)"
+  #  homepage: "https://people.irisa.fr/Francois.Schwarzentruber"
   # - name: Igor Sedlár
   #   org: Czech Academy of Sciences (Czech Republic)
   #   homepage: https://www.cs.cas.cz/sedlar/
@@ -172,9 +175,9 @@
   - name: Ionuț Țuțu
     org: Simion Stoilow Institute of Mathematics of the Romanian Academy (Romania)
     homepage: https://scholar.google.co.uk/citations?user=10v2GlMAAAAJ&hl=en
-  - name: Fernando R. Velázquez-Quesada
-    org: "University of Bergen (Norway)"
-    homepage: "https://www.uib.no/en/persons/Fernando.Raymundo.Velazquez.Quesada"
+  - name: Amanda Vidal
+    org: "Amanda Vidal, Czech Academy of Sciences (Czech Republic)"
+    homepage: "https://www.cs.cas.cz/vidal/"
   - name: Fan Yang
     org: "Utrecht University (The Netherlands)"
     homepage: "https://sites.google.com/site/fanyanghp/"
