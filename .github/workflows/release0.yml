@@ -5,11 +5,14 @@ on:
     branches:
       - master
 
-# Grant GITHUB_TOKEN the permissions required to make a Pages deployment
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
 permissions:
   contents: read
-  pages: write      # to deploy to Pages
-  id-token: write   # to verify the deployment originates from an appropriate source
+  pages: write
+  id-token: write
 
 env:
   JEKYLL_ENV: production
@@ -19,11 +22,14 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      
+
       - uses: ruby/setup-ruby@v1
         with:
           ruby-version: '3.3'
-          bundler-cache: false   # Mantém desativado para evitar o erro anterior de cache do GitHub
+          bundler-cache: false
+
+      - name: Install dependencies
+        run: bundle install
 
       - name: Configure GitHub Pages
         uses: actions/configure-pages@v5
@@ -35,31 +41,16 @@ jobs:
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
-    
-#    - name: Checkout code
-#      uses: actions/checkout@v3
+        with:
+          path: ./_site
 
-#    - name: Build Jekyll for GitHub Pages
-#      uses: actions/jekyll-build-pages@v1.0.7
-#      with:
-#          source: ./
-#          destination: ./_site
-#    - name: Upload artifact
-#      uses: actions/upload-pages-artifact@v1
-
-  # Deploy job
   deploy:
-    # Add a dependency to the build job
     needs: build
-
-    # Deploy to the github-pages environment
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
-
     runs-on: ubuntu-latest
     steps:
-    - name: Deploy GitHub Pages site
-      id: deployment
-      uses: actions/deploy-pages@v4
-#      uses: actions/deploy-pages@v1.2.4
+      - name: Deploy GitHub Pages site
+        id: deployment
+        uses: actions/deploy-pages@v4
