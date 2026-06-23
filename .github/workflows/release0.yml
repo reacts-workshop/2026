@@ -19,10 +19,11 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+      
       - uses: ruby/setup-ruby@v1
         with:
           ruby-version: '3.3'
-          bundler-cache: false
+          bundler-cache: false   # Mantém desativado para evitar o erro anterior de cache do GitHub
 
       - name: Configure GitHub Pages
         uses: actions/configure-pages@v5
