@@ -22,7 +22,7 @@ jobs:
       - uses: ruby/setup-ruby@v1
         with:
           ruby-version: '3.3'
-          bundler-cache: false   # Caches gems for faster builds
+          bundler-cache: false
 
       - name: Configure GitHub Pages
         uses: actions/configure-pages@v5
