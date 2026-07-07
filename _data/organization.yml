@@ -31,9 +31,9 @@
 - title: Invited Speakers
   column: 1
   members: 
-  - name: Manuel A. Martins
-    org: "Manuel A. Martins, University of Aveiro (Portugal)"
-    homepage: "https://sweet.ua.pt/martins/"
+   - name: Manuel A. Martins
+     org: "University of Aveiro (Portugal)"
+     homepage: "https://sweet.ua.pt/martins/"
    - name: TBA
      org: ""
      homepage: ""
@@ -184,10 +184,9 @@
   
 
 
-
 # - title: Webmaster
 #   column: 1
 #   members:
-#   - name: Hrishikesh Terdalkar
-#     org: IIT Kanpur, Kanpur, India
-#     homepage: https://hrishikeshrt.github.io
+#   - name: Webmaster Name
+#     org: HisOrg
+#     homepage: https://hishomepage
