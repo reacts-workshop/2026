@@ -27,7 +27,7 @@ slideshow:
      description: "Malta Landscape"
      photographer_name: ""
      photographer_link: ""
-  #   active: True
+     active: True
   # - id: 0
   #   image_path: ./assets/images/slideshow/0-banner.jpg
   #   description: "Toledo by night"
