@@ -23,7 +23,7 @@ show_title: false
 
 slideshow:
    - id: 0
-  #   image_path: ./assets/images/slideshow/Malta_andscape.jpg
+     image_path: ./assets/images/slideshow/Malta_landscape.jpg
      description: "Malta Landscape"
      photographer_name: ""
      photographer_link: ""
