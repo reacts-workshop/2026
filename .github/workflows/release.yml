@@ -19,7 +19,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: Checkout code
-      uses: actions/checkout@v4
+      uses: actions/checkout@v5
 
     - name: Build Jekyll for GitHub Pages
       uses: actions/jekyll-build-pages@v1.0.13
@@ -27,7 +27,7 @@ jobs:
           source: ./
           destination: ./_site
     - name: Upload artifact
-      uses: actions/upload-pages-artifact@v3
+      uses: actions/upload-pages-artifact@v4
 
   # Deploy job
   deploy:
