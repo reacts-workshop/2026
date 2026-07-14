@@ -10,7 +10,7 @@ full_title: "3rd International Workshop on Reconfigurable Transition Systems: Se
 short_title: ReacTS Workshop
 
 year: 2026
-date: November 23-24, 2026
+date: November 24, 2026
 
 location: University of Malta
 country: Malta
@@ -124,7 +124,7 @@ navbar:
     visible: False
 deadline_timezone: AoE
 deadlines:
-  - date: 2026-09-06
+  - date: 2026-09-08
     text: Abstract submission
     pass_due: False
     strike_through: False
@@ -137,7 +137,7 @@ deadlines:
     pass_due: False
     strike_through: False
   - date: 2026-11-06
-    text: Camera-ready
+    text: Informal pre-proceedings
     pass_due: False
     strike_through: False
 
