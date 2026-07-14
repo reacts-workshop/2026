@@ -166,9 +166,9 @@
   - name: Regivan Santiago
     org: "Universidade Federal do Rio Grande do Norte (Brazil)"
     homepage: "https://www.researchgate.net/profile/Regivan-Santiago"
-  #- name: François Schwarzentruber
-  #  org: "ENS Rennes (France)"
-  #  homepage: "https://people.irisa.fr/Francois.Schwarzentruber"
+  - name: François Schwarzentruber
+    org: "ENS Rennes (France)"
+    homepage: "https://people.irisa.fr/Francois.Schwarzentruber"
   # - name: Igor Sedlár
   #   org: Czech Academy of Sciences (Czech Republic)
   #   homepage: https://www.cs.cas.cz/sedlar/
