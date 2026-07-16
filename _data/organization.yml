@@ -126,9 +126,9 @@
   #- name: Sujata Gosh
   #  org: "Indian Statistical Institute, Chennai (India)"
   #  homepage: "https://www.isichennai.res.in/~sujata/"
-  #- name: Andreas Herzig
-  #  org: CNRS, Université Paul Sabatier (France)
-  #  homepage: https://www.irit.fr/~Andreas.Herzig/
+  - name: Andreas Herzig
+    org: CNRS, Université Paul Sabatier (France)
+    homepage: https://www.irit.fr/~Andreas.Herzig/
   #- name: Juha Kontinen
   #  org: University of Helsinki (Finland)
   #  homepage: https://researchportal.helsinki.fi/en/persons/juha-kontinen
