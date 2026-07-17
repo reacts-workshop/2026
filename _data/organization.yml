@@ -129,9 +129,9 @@
   - name: Andreas Herzig
     org: CNRS, Université Paul Sabatier (France)
     homepage: https://www.irit.fr/~Andreas.Herzig/
-  #- name: Juha Kontinen
-  #  org: University of Helsinki (Finland)
-  #  homepage: https://researchportal.helsinki.fi/en/persons/juha-kontinen
+  - name: Juha Kontinen
+    org: University of Helsinki (Finland)
+    homepage: https://researchportal.helsinki.fi/en/persons/juha-kontinen
   - name: Alexandre Madeira
     org: "University of Aveiro (Portugal)"
     homepage: "https://sweet.ua.pt/madeira/"
