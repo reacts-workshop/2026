@@ -94,14 +94,14 @@ navbar:
     label: Calls for Papers
     visible: True
     path: /cfp.html
-  # - id: 3
-  #   label: Submission
-  #   visible: True
-  #   children:
-  # - id: 4
-  #   label: Submission
-  #   path: /submission.html
-  #   visible: True
+   - id: 3
+     label: Submission
+     visible: True
+     children:
+   - id: 4
+     label: Submission
+     path: /submission.html
+     visible: True
   # - id: 2
   #   label: Accepted Papers
   #   path: /accepted.html
