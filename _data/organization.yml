@@ -138,9 +138,9 @@
   - name: Sérgio Marcelino
     org: "IT & Dep. Mathematics IST, University of Lisbon (Portugal)"
     homepage: "https://www.researchgate.net/profile/Sergio-Marcelino"
-  #- name: Vanina Martínez
-  #  org: IIIA-CSIC, Barcelona (Spain)
-  #  homepage: "https://www.iiia.csic.es/~vmartinez/"
+  - name: Vanina Martínez
+    org: IIIA-CSIC, Barcelona (Spain)
+    homepage: "https://www.iiia.csic.es/~vmartinez/"
   #- name: Manuel Martins
   #  org: University of Aveiro (Portugal)
   #  post: ""
