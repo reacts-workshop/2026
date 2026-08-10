@@ -71,9 +71,9 @@
 - title: Technical Program Committe
   column: 2
   members:
-  # - name: tbd
-  #   org: ""
-  #   homepage: ""
+  - name: Elli Anastasiadi
+    org: Aalborg University (Denmark)
+    homepage: https://l0e42.github.io/
   # - name: Carlos Areces
   #   org: Universidad Nacional de Córdoba and CONICET (Argentina)
   #   homepage: https://carlosareces.github.io
@@ -95,6 +95,9 @@
   - name: Valentin Cassano
     org: Universidad Nacional de Río Cuarto and CONICET (Argentina)
     homepage: http://vcassano.github.io
+  - name: Valentina Castiglioni
+    org: Eindhoven University of Technology (The Netherlands)
+    homepage: https://sites.google.com/view/valentinacastiglioni/home
   - name: Madalena Chaves
     org: Centre Inria d'Université Côte d'Azur (France)
     homepage: https://www-sop.inria.fr/members/Madalena.Chaves/
@@ -129,6 +132,9 @@
   - name: Andreas Herzig
     org: CNRS, Université Paul Sabatier (France)
     homepage: https://www.irit.fr/~Andreas.Herzig/
+  - name: Omar Inverso
+    org: Gran Sasso Science Institute (GSSI), (Italy)
+    homepage: https://www.gssi.it/people/professors/lectures-computer-science/item/1018-inverso-omar
   - name: Juha Kontinen
     org: University of Helsinki (Finland)
     homepage: https://researchportal.helsinki.fi/en/persons/juha-kontinen
