@@ -124,14 +124,14 @@ navbar:
     visible: False
 deadline_timezone: AoE
 deadlines:
-  - date: "2026-09-08 (optional)"
+  - date: 2026-09-08
     text: Abstract submission
     pass_due: False
     strike_through: False
-  - date: "<s> 2026-09-13 </s> 2026-09-16"
+  - date: 2026-09-13
     text: Paper submission
     pass_due: False
-    strike_through: False
+    strike_through: True
   - date: 2026-10-16
     text: Notification of acceptance
     pass_due: False
