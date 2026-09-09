@@ -125,11 +125,11 @@ navbar:
 deadline_timezone: AoE
 deadlines:
   - date: 2026-09-08
-    text: Abstract submission
+    text: Abstract submission (Optional)
     pass_due: False
     strike_through: False
-  - date: 2026-09-13
-    text: Paper submission
+  - date: 2026-09-16
+    text: Paper submission (Extended)
     pass_due: False
     strike_through: True
   - date: 2026-10-16
