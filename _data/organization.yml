@@ -144,10 +144,9 @@
   - name: Vanina Martínez
     org: IIIA-CSIC, Barcelona (Spain)
     homepage: "https://www.iiia.csic.es/~vmartinez/"
-  #- name: Manuel Martins
-  #  org: University of Aveiro (Portugal)
-  #  post: ""
-  #  homepage: https://sweet.ua.pt/martins/
+  - name: Manuel Martins
+    org: University of Aveiro (Portugal)
+    homepage: https://sweet.ua.pt/martins/
   #- name: Carles Noguera i Clofent
   #  org: Università degli Studi di Siena (Italy)
   #  homepage: "https://docenti.unisi.it/en/noguera-clofent"
